@@ -24,6 +24,7 @@ Repositori ini berisi berbagai proyek Python sederhana yang saya kerjakan selama
 Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
 * **Proyek 1:** Kalkulator sederhana
+* **Proyek 2:** Membentuk Gambar
 
 ## Cara Menjalankan Proyek
 
