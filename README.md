@@ -29,4 +29,4 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
 Anda perlu menginstal Python di komputer: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Setelah Python terinstal, jalankann proyek dengan perintah `python nama_proyek.py` di terminal atau app code editor.
+Setelah Python terinstal, jalankan proyek dengan perintah `python nama_proyek.py` di terminal atau app code editor.
