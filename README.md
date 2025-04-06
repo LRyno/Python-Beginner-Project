@@ -25,6 +25,7 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
 * **Proyek 1:** Kalkulator sederhana
 * **Proyek 2:** Membentuk Gambar
+* **Proyek 3:** Data Buku Perpustakaan
 
 ## Cara Menjalankan Proyek
 
