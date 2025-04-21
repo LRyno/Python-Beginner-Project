@@ -28,6 +28,7 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 * **Proyek 3:** Data Buku Perpustakaan
 * **Proyek 4:** Pendataan Siswa
 * **Proyek 5:** To-Do List
+* **Proyek 6:** Simulasi Bank App
 
 ## Cara Menjalankan Proyek
 
